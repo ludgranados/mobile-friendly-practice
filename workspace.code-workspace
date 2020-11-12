@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../collab-practice"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../WB-Final-Project"
+		},
+		{
+			"path": "../day-7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mobile-friendly-class"
+	}
+}
